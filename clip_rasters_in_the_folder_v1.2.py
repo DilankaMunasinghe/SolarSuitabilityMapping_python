@@ -1,3 +1,6 @@
+# This Script could be used to clip multiple raster files (GeoTIFF or .tif) to the shapes of multiple shapefiles and produce corresponding outputs according to the names of the Rasters and the shapefiles
+
+
 import os, fnmatch
 import time
 
